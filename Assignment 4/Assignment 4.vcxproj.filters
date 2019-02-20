@@ -23,7 +23,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Assignment 4.cpp">
+    <ClCompile Include="Aaron McCormick Assignment 4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
